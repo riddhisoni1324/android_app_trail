@@ -14,7 +14,7 @@ public class New extends Activity {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.hiii);
-
+        //--for splash
         Thread timer=new Thread(){
             public void run(){
                 try{
